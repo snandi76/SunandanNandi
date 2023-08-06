@@ -2,7 +2,7 @@
 
 ## Intro
 
-I am basicaly a system engineer. Interested to play and build devices. Device those are used to transform human to super human. Like to architect system, write code, plan test automation and talk on any technical topic. Always like to colaborate with pleople with different or same polarity. Never hesitate to challenge self. Feel proud to solve problems.
+I am basicaly a system engineer. Interested to prototype and build devices. Device those are used to transform human to super human, used in there day to day life. Like to design system, write code, plan test automation and talk on any technical topic. Always like to colaborate with pleople with different or same polarity. Never hesitate to challenge self. Feel proud to solve problems.
 
 ## Skills
 
