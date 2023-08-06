@@ -2,7 +2,7 @@
 
 ## Intro
 
-I am basicaly a system engineer. Interested to prototype and build devices. Device those are used to transform human to super human, used in there day to day life. Like to design system, write code, plan test automation and talk on any technical topic. Always like to colaborate with pleople with different or same polarity. Never hesitate to challenge self. Feel proud to solve problems.
+Enthusiastic system engineer with a strong passion for prototyping and building transformative devices aimed at enhancing human capabilities for everyday life. Proficient in designing intricate systems, crafting efficient code, orchestrating test automation, and engaging in insightful technical discussions. A collaborative team player who thrives amidst diverse perspectives, constantly seeks self-improvement through challenges, and takes immense pride in providing effective solutions.
 
 ## Skills
 
